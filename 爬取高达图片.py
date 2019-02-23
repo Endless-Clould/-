@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018/12/31 16:29
-# @Author  : Endless-cloud
-# @Site    : 
-# @File    : 爬取高达图片.py
-# @Software: PyCharm
+
 import requests
 import re
 from bs4 import BeautifulSoup
